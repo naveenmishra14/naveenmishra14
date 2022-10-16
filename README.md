@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @naveenmishra14
-- 👀 I’m interested in Front end development , C Developer
+- 👋 Hi, I’m @naveenmishra
+- 👀 I’m interested in Front end development 
+- {} I have compeleted c prommaing language
 - 🌱 I’m currently learning Bachelor Of Technology(Computer Science Engineering) From S.D.Bansal of Engineering College Indore BGI.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 https://www.linkedin.com/in/naveen-mishra-90772122b
